@@ -1,0 +1,6 @@
+{
+  "name": "ResumeForge AI",
+  "description": "Canva-inspired premium AI resume builder & career branding platform with 100+ designer templates, live canvas editing, ATS scoring, and instant raw-text-to-designer-resume generation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
